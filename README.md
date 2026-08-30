@@ -1,4 +1,3 @@
-
 # Task Manager System
 
 A simple and practical Task Management System built with Laravel.
@@ -83,7 +82,7 @@ The dashboard provides an overview of the tasks, including:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git https://github.com/Fortex-Dev/TaskManagerSystem.git
 
 2. Enter the project directory
 
@@ -175,3 +174,4 @@ This project was built as a practical Laravel project to demonstrate backend dev
 Author
 
 FortexDev
+```
